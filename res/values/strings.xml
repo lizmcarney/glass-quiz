@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- APP NAME -->
+    <string name="app_name">Glass Quiz</string>
+
+    <!-- RESULTS MENU -->
+    <string name="game_over">Game over</string>
+    <string name="great_job">Congratulations!</string>
+    <string name="score_summary">Score: %1$d/%2$d</string>
+
+    
+    <!-- START GAME MENU -->
+        <string name="tap_to_start">Tap to start</string>
+    <string name="new_traditional_quiz">New Quiz</string>
+    <string name="new_timed_quiz">New Timed Quiz</string>
+    <string name="instructions">Instructions</string>
+    <string name="exit">Exit</string>
+    
+    <!-- TRUE QUESTIONS -->
+    <string-array name="true_questions">
+        <!-- National Languages -->
+           	<item>The official language of Nigeria is English.</item>
+       		<item>The official language of Libya is Arabic.</item>
+       	<!-- Dollar Bills -->
+   	        <item>William McKinley is on the $500 bill.</item>
+        	<item>Grover Cleveland is on the $1,000 bill.</item>
+        	<item>James Madison is on the $5,000 bill.</item>
+        <!-- Colors -->
+        	<item>Magenta is a shade of red-purple.</item>
+        	<item>Vermillion is a shade of bright red-orange.</item>
+        	<item>Sienna is a reddish-brown color.</item>
+        	<item>Fulvous is a shade of orange.</item>
+       	<!-- Math -->
+       		<item>101 is the binary equivalent of 5.</item>
+       	<!-- Computer Science -->
+       	<!-- Music -->
+       		<item>Nirvanas lead singer was Kurt Cobain.</item>
+       		<item>Van Halen\'s lead singer was David Lee Roth.</item>
+       		<item>Led Zeppelin\'s lead singer was Robert Plant.</item>
+       		<item>Def Leppard\'s lead singer was Joe Elliot.</item>
+       	<!-- Misc -->
+	        <item>The Pacific Ocean is larger than the Atlantic Ocean.</item>
+	        <item>A unicycle has 1 wheel.</item>
+	        <item>A group of owls is called a parliament.</item>
+	        <item>Giraffes have seven bones in their neck.</item>
+	        <item>A group of crows is called a murder.</item>
+	        <item>IHOP stands for Internation House of Pancakes.</item>
+	        <item>Otters sleep holding hands.</item>
+	        <item>The whale is the heaviest mammal on Earth.</item>
+	        <item>BRB is short for Be Right Back.</item>
+	        <item>Cacti is the plural term for cactus.</item>
+	        <item>Diamonds are the hardest matter on Earth.</item>
+	        <item>Marie Curies notebooks are still radioactive.</item>
+    </string-array>
+    
+    <!-- FALSE QUESTIONS -->
+    <string-array name="false_questions">
+        <!-- National Languages -->
+            <item>The official language of South Africa is English.</item>
+        	<item>The official language of Ethiopia is English.</item>
+        <!-- Dollar Bills -->
+            <item>Andrew Jackson is on the $50 bill.</item>
+        	<item>Ulysses Grant is on the $20 bill.</item>
+        <!-- Colors -->
+        	<item>Cerulean is a shade of yellow.</item>
+        	<item>Periwinkle is a shade of light pink. </item>
+        	<item>Citron is a shade of blue-purple.</item>
+            <item>Chartruese is a shade of blue.</item>
+        <!-- Math -->
+        	<item>1101 is the binary equivalent of 8.</item>
+        <!-- Computer Science -->
+        	<item>C++ is a functional programming language.</item>
+        	<item>ALU stands for Algorithmic Logical Unit.</item>
+        <!-- Music -->
+            <item>Green Days first album was titled Dookie.</item>
+            <item>Pink Floyd\'s lead singer was Billy Idol.</item>
+            <item>Pour Some Sugar on Me was Pink Floyd\'s first single.</item>
+        <!-- Misc -->
+	        <item>Kryptons atomic number is 26.</item>
+	        <item>The prefix giga means one million.</item>
+	        <item>Mexico has a larger population that the US.</item>
+	        <item>Benjamin Franklin invented the lightbulb.</item>
+	        <item>Chocolate is poisonous to elephants.</item>
+	        <item>The air is mostly oxygen.</item>
+	        <item>A typhoon is a type of tornado.</item>
+	        <item>TTYL is short for Talk to you longer.</item>
+	        <item>Michael Jackson died in a car crash.</item>
+	        <item>Brtiney Spears is an Olympian swimmer.</item>
+	        <item>No English words rhyme with Orange.</item>
+	        <item>Ben Stiller starred in The Truman Show.</item>
+    </string-array>
+
+    <!-- TUTORIAL -->
+    <string-array name="tutorial_steps">
+        <item>Swipe forward to answer True.</item>
+        <item>Swipe backward to answer False.</item>
+        <item>Tap to pass a question. Good luck!</item>
+    </string-array>    
+    
+</resources>

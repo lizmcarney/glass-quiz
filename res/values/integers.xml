@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <integer name="slide_duration_ms">150</integer>
+    <integer name="num_questions">10</integer>
+    <integer name="timed_quiz_time_seconds">60</integer>
+    <integer name="num_results_per_card">2</integer>
+
+</resources>

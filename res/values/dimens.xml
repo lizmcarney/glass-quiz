@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="card_margin">40px</dimen>
+    <dimen name="margin_bottom">10px</dimen>
+    <dimen name="timer_margin_left">40px</dimen>
+
+</resources>
